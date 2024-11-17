@@ -1,0 +1,10 @@
+/* assets/css/main.css */
+
+/* 1. Charger les styles de base de Tailwind */
+@tailwind base;
+
+/* 2. Charger les composants (par exemple, les boutons, formulaires, etc.) */
+@tailwind components;
+
+/* 3. Charger les utilitaires de Tailwind */
+@tailwind utilities;
